@@ -1,0 +1,10 @@
+version: '2'
+services:
+    osrc:
+        image: php:7.2-apache
+        restart: always
+        ports:
+        - "30061:80"
+        volumes:
+            - "./osrc/:/var/www/html/"
+            - "./flag:/flag"

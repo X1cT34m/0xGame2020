@@ -1,0 +1,12 @@
+version: "2"
+services:
+    web:
+        build: .
+        restart: always
+        ports: 
+          - "30055:80"
+        volumes:
+          - "./src:/app"
+
+
+
