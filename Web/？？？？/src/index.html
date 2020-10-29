@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<link href="Css/bootstrap.css" rel="stylesheet" type="text/css" />
+	<script type="text/javascript" src="Js/jquery.js"></script>
+	<script type="text/javascript" src="Js/style.js"></script>
+</head>
+<body style="margin-top:5%">
+	<center >
+		<h3 style="line-height:80px;height:80px;">输入yulige即可得到flag</h3>
+		<form action="maxlenth.php" method="post">
+			<div class="col-lg-4 col-md-4 col-lg-offset-4">
+			<table border="0" width="450" class="table">
+				<tr>
+					<td>谁是God of Web：</td>
+					<td><input type="text" name="ip" class="form-control" maxlength="4" required></td>
+				</tr>
+				<tr>
+					<td colspan="2" align="center">
+						<input type="submit" value="提交" class="btn btn-success" disabled="disabled">
+						<input type="reset" value="取消" class="btn btn-default">
+					</td>
+				</tr>
+			</table>
+		</div>
+		</form>
+	</center>
+</body>
+</html>
