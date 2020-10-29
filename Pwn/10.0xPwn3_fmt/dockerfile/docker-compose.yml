@@ -1,0 +1,7 @@
+version: '2.2'
+services:
+  0xgame_pwn11:
+    build: .
+    ports:
+      - "10011:10011"
+    restart: always
