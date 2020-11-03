@@ -7,6 +7,6 @@
   * Pwn：风沐云烟
   * Crypto：Am473ur
   * Reverse：20000s
-  * Misc：Am473ur
+  * Misc：Am473ur、Du1in9
 * 鸣谢：小绿草信息安全科创实验室
 
