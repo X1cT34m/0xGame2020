@@ -14,3 +14,4 @@ chmod 777 src/start.sh
 docker exec 容器ID /app/start.sh
 ```
 
+broken_motto请注意session保存路径是否可写问题
