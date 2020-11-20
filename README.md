@@ -8,5 +8,7 @@
   * Crypto：Am473ur
   * Reverse：20000s
   * Misc：Am473ur、Du1in9
+* 选手WP交流文档：https://shimo.im/docs/dt6jcT3vRkXppdCR
+* 题目环境：https://shimo.im/docs/8hkRHdRDdWyKycyK
 * 鸣谢：[小绿草信息安全科创实验室](http://ctf.njupt.edu.cn/)
 
